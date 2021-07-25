@@ -12,3 +12,6 @@ const check2000 = isLeapYear(2000);
 console.log(check2000);
 const check2983 = isLeapYear(2983);
 console.log(check2983);
+
+// '==' is use for 'compare' and '=' is use for 'set the value' 
+ 
