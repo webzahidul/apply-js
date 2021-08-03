@@ -9,3 +9,5 @@ function factorial(n) {
 }
 var result = factorial(10);
 console.log(result);
+
+//the thing for factorial is that: problem can be solved by two way. one is forLoop and another is whileLoop.
